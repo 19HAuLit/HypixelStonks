@@ -1,0 +1,1262 @@
+{
+  "Brown Mushroom":
+    {
+      "sellPrice": 4,
+      "buyPrice": 12
+    }
+  ,
+  "Cocoa Beans":
+  {
+    "sellPrice": 3,
+    "buyPrice": 5
+  },
+  "Lapis Lazuli":
+  {
+    "sellPrice": 1,
+    "buyPrice": null
+  },
+  "Tarantula Web":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Carrot":
+  {
+    "sellPrice": 1,
+    "buyPrice": 2
+  },
+  "Enchanted Potato":
+  {
+    "sellPrice": 160,
+    "buyPrice": null
+  },
+  "Enchanted Slimeball":
+  {
+    "sellPrice": 800,
+    "buyPrice": null
+  },
+  "Enchanted Red Mushroom":
+  {
+    "sellPrice": 640,
+    "buyPrice": null
+  },
+  "Enchanted Golden Carrot":
+  {
+    "sellPrice": 20608,
+    "buyPrice": null
+  },
+  "Enchanted Rabbit Hide":
+  {
+    "sellPrice": 2880,
+    "buyPrice": null
+  },
+  "Enchanted Birch Wood":
+  {
+    "sellPrice": 320,
+    "buyPrice": null
+  },
+  "Enchanted Gunpowder":
+  {
+    "sellPrice": 640,
+    "buyPrice": null
+  },
+  "Enchanted Melon":
+  {
+    "sellPrice": 160,
+    "buyPrice": null
+  },
+  "Enchanted Sugar":
+  {
+    "sellPrice": 320,
+    "buyPrice": null
+  },
+  "Cactus":
+  {
+    "sellPrice": 1,
+    "buyPrice": null
+  },
+  "Enchanted Blaze Rod":
+  {
+    "sellPrice": 230400,
+    "buyPrice": null
+  },
+  "Enchanted Cake":
+  {
+    "sellPrice": 2700,
+    "buyPrice": null
+  },
+  "Pumpkin":
+  {
+    "sellPrice": 4,
+    "buyPrice": null
+  },
+  "Enchanted Brown Mushroom":
+  {
+    "sellPrice": 640,
+    "buyPrice": null
+  },
+  "Wheat":
+  {
+    "sellPrice": 1,
+    "buyPrice": null
+  },
+  "Enchanted Raw Salmon":
+  {
+    "sellPrice": 1600,
+    "buyPrice": null
+  },
+  "Enchanted Glistering Melon":
+  {
+    "sellPrice": 1024,
+    "buyPrice": null
+  },
+  "Prismarine Shard":
+  {
+    "sellPrice": 5,
+    "buyPrice": null
+  },
+  "Protector Dragon Fragment":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Enchanted Emerald":
+  {
+    "sellPrice": 960,
+    "buyPrice": null
+  },
+  "Enchanted Spider Eye":
+  {
+    "sellPrice": 480,
+    "buyPrice": null
+  },
+  "Red Mushroom":
+  {
+    "sellPrice": 4,
+    "buyPrice": null
+  },
+  "Enchanted Melon Block":
+  {
+    "sellPrice": 25600,
+    "buyPrice": null
+  },
+  "Mutton":
+  {
+    "sellPrice": 5,
+    "buyPrice": null
+  },
+  "Wise Dragon Fragment":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Diamond":
+  {
+    "sellPrice": 8,
+    "buyPrice": null
+  },
+  "Cobblestone":
+  {
+    "sellPrice": 1,
+    "buyPrice": null
+  },
+  "Spider Eye":
+  {
+    "sellPrice": 3,
+    "buyPrice": null
+  },
+  "Raw Fish":
+  {
+    "sellPrice": 6,
+    "buyPrice": null
+  },
+  "Enchanted Pufferfish":
+  {
+    "sellPrice": 2400,
+    "buyPrice": null
+  },
+  "Potato":
+  {
+    "sellPrice": 1,
+    "buyPrice": null
+  },
+  "Enchanted Brown Mushroom Block":
+  {
+    "sellPrice": 2300,
+    "buyPrice": null
+  },
+  "Enchanted Cobblestone":
+  {
+    "sellPrice": 160,
+    "buyPrice": null
+  },
+  "Enchanted Red Mushroom Block":
+  {
+    "sellPrice": 20736,
+    "buyPrice": null
+  },
+  "Raw Porkchop":
+  {
+    "sellPrice": 5,
+    "buyPrice": null
+  },
+  "Prismarine Crystals":
+  {
+    "sellPrice": 5,
+    "buyPrice": null
+  },
+  "Ice":
+  {
+    "sellPrice": 0.5,
+    "buyPrice": null
+  },
+  "Brown Mushroom Block":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Red Mushroom Block":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Ice Bait":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Dark Oak Wood":
+  {
+    "sellPrice": 2,
+    "buyPrice": null
+  },"Enchanted Snow Block":
+  {
+    "sellPrice": 600,
+    "buyPrice": null
+  },
+  "String":
+  {
+    "sellPrice": 3,
+    "buyPrice": null
+  },
+  "Golden Tooth":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "\"Rabbits Foot\"":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Redstone":
+  {
+    "sellPrice": 1,
+    "buyPrice": null
+  },
+  "Enchanted Cactus Green":
+  {
+    "sellPrice": 160,
+    "buyPrice": null
+  },
+  "Enchanted Carrot On A Stick":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Enchanted Lapis Block":
+  {
+    "sellPrice": 25600,
+    "buyPrice": null
+  },
+  "Enchanted Cookie":
+  {
+    "sellPrice": 61472,
+    "buyPrice": null
+  },
+  "Enchanted End Stone":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Enchanted Sand":
+  {
+    "sellPrice": 320,
+    "buyPrice": null
+  },
+  "Enchanted String":
+  {
+    "sellPrice": 576,
+    "buyPrice": null
+  },
+  "Strong Dragon Fragment":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Slimeball":
+  {
+    "sellPrice": 5,
+    "buyPrice": null
+  },
+  "Enchanted Acacia Wood":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Snowball":
+  {
+    "sellPrice": 1,
+    "buyPrice": null
+  },
+  "Holy Dragon Fragment":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Enchanted Egg":
+  {
+    "sellPrice": 432,
+    "buyPrice": null
+  },
+  "Sand":
+  {
+    "sellPrice": 2,
+    "buyPrice": null
+  },
+  "Raw Chicken":
+  {
+    "sellPrice": 4,
+    "buyPrice": null
+  },
+  "Enchanted Lapis Lazuli":
+  {
+    "sellPrice": 160,
+    "buyPrice": null
+  },
+  "Enchanted Ghast Tear":
+  {
+    "sellPrice": 80,
+    "buyPrice": null
+  },
+  "Enchanted Cocoa Bean":
+  {
+    "sellPrice": 480,
+    "buyPrice": null
+  },
+  "Carrot Bait":
+  {
+    "sellPrice": 7,
+    "buyPrice": null
+  },
+  "Seeds":
+  {
+    "sellPrice": 0.5,
+    "buyPrice": null
+  },
+  "Enchanted Leather":
+  {
+    "sellPrice": 1700,
+    "buyPrice": null
+  },
+  "Enchanted Sponge":
+  {
+    "sellPrice": 2000,
+    "buyPrice": null
+  },
+  "Hay Bale":
+  {
+    "sellPrice": 9,
+    "buyPrice": null
+  },
+  "Ink Sack":
+  {
+    "sellPrice": 2,
+    "buyPrice": null
+  },
+  "Flint":
+  {
+    "sellPrice": 4,
+    "buyPrice": null
+  },
+  "Enchanted Rotten Flesh":
+  {
+    "sellPrice": 320,
+    "buyPrice": null
+  },
+  "Enchanted Spruce Wood":
+  {
+    "sellPrice": 320,
+    "buyPrice": null
+  },
+  "Wolf Tooth":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Enchanted Grilled Pork":
+  {
+    "sellPrice": 128000,
+    "buyPrice": null
+  },
+  "Enchanted Nether Wart":
+  {
+    "sellPrice": 480,
+    "buyPrice": null
+  },
+  "Enchanted Redstone Block":
+  {
+    "sellPrice": 25600,
+    "buyPrice": null
+  },
+  "Enchanted Quartz Block":
+  {
+    "sellPrice": 102400,
+    "buyPrice": null
+  },
+  "Green Candy":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Enchanted Redstone":
+  {
+    "sellPrice": 160,
+    "buyPrice": null
+  },
+  "Enchanted Redstone Lamp":
+  {
+    "sellPrice": 30720,
+    "buyPrice": null
+  },
+  "Gravel":
+  {
+    "sellPrice": 3,
+    "buyPrice": null
+  },
+  "Melon":
+  {
+    "sellPrice": 1,
+    "buyPrice": null
+  },
+  "Enchanted Packed Ice":
+  {
+    "sellPrice": 12800,
+    "buyPrice": null
+  },
+  "Enchanted Lava Bucket":
+  {
+    "sellPrice": 50000,
+    "buyPrice": null
+  },
+  "Pufferfish":
+  {
+    "sellPrice": 15,
+    "buyPrice": null
+  },
+  "Enchanted Prismarine Shard":
+  {
+    "sellPrice": 400,
+    "buyPrice": null
+  },
+  "Enchanted Iron Block":
+  {
+    "sellPrice": 76800,
+    "buyPrice": null
+  },
+  "Enchanted Carrot on a Stick":
+  {
+    "sellPrice": 320.4,
+    "buyPrice": null
+  },
+  "Recombobulator 3000":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Bone":
+  {
+    "sellPrice": 2,
+    "buyPrice": null
+  },
+  "Clownfish":
+  {
+    "sellPrice": 20,
+    "buyPrice": null
+  },
+  "Raw Salmon":
+  {
+    "sellPrice": 5,
+    "buyPrice": null
+  },
+  "Revenant Flesh":
+  {
+    "sellPrice": 1,
+    "buyPrice": null
+  },
+  "Enchanted Glowstone":
+  {
+    "sellPrice": 320,
+    "buyPrice": null
+  },
+  "Enchanted Pork":
+  {
+    "sellPrice": 800,
+    "buyPrice": null
+  },
+  "Feather":
+  {
+    "sellPrice": 3,
+    "buyPrice": null
+  },
+  "Whale Bait":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Netherrack":
+  {
+    "sellPrice": 1,
+    "buyPrice": null
+  },
+  "Sponge":
+  {
+    "sellPrice": 50,
+    "buyPrice": null
+  },
+  "Blaze Rod":
+  {
+    "sellPrice": 9,
+    "buyPrice": null
+  },
+  "Enchanted Dark Oak Wood":
+  {
+    "sellPrice": 320,
+    "buyPrice": null
+  },
+  "Young Dragon Fragment":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Enchanted Clownfish":
+  {
+    "sellPrice": 3200,
+    "buyPrice": null
+  },
+  "Enchanted Gold":
+  {
+    "sellPrice": 640,
+    "buyPrice": null
+  },
+  "Enchanted Raw Chicken":
+  {
+    "sellPrice": 640,
+    "buyPrice": null
+  },
+  "Enchanted Lily Pad":
+  {
+    "sellPrice": 1600,
+    "buyPrice": null
+  },
+  "Spruce Wood":
+  {
+    "sellPrice": 2,
+    "buyPrice": null
+  },
+  "Catalyst":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Jungle Wood":
+  {
+    "sellPrice": 2,
+    "buyPrice": null
+  },
+  "Birch Wood":
+  {
+    "sellPrice": 2,
+    "buyPrice": null
+  },
+  "Blessed Bait":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Enchanted Glowstone Dust":
+  {
+    "sellPrice": 320,
+    "buyPrice": null
+  },
+  "Enchanted Ink Sack":
+  {
+    "sellPrice": 160,
+    "buyPrice": null
+  },
+  "Enchanted Cactus":
+  {
+    "sellPrice": 160,
+    "buyPrice": null
+  },
+  "Enchanted Sugar Cane":
+  {
+    "sellPrice": 51000,
+    "buyPrice": null
+  },
+  "Enchanted Cooked Salmon":
+  {
+    "sellPrice": 256000,
+    "buyPrice": null
+  },
+  "Enchanted Seeds":
+  {
+    "sellPrice": 80,
+    "buyPrice": null
+  },
+  "Oak Wood":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Enchanted Bone Block":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Ghast Tear":
+  {
+    "sellPrice": 16,
+    "buyPrice": null
+  },
+  "Unstable Dragon Fragment":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Enchanted Ender Pearl":
+  {
+    "sellPrice": 200,
+    "buyPrice": null
+  },
+  "Purple Candy":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Enchanted Fermented Spider Eye":
+  {
+    "sellPrice": 31000,
+    "buyPrice": null
+  },
+  "Spiked Bait":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Enchanted Gold Block":
+  {
+    "sellPrice": 102400,
+    "buyPrice": null
+  },
+  "Enchanted Jungle Wood":
+  {
+    "sellPrice": 320,
+    "buyPrice": null
+  },
+  "Enchanted Flint":
+  {
+    "sellPrice": 640,
+    "buyPrice": null
+  },
+  "Iron Ingot":
+  {
+    "sellPrice": 3,
+    "buyPrice": null
+  },
+  "Enchanted Emerald Block":
+  {
+    "sellPrice": 153600,
+    "buyPrice": null
+  },
+  "Enchanted Clay":
+  {
+    "sellPrice": 480,
+    "buyPrice": null
+  },
+  "Glowstone Dust":
+  {
+    "sellPrice": 2,
+    "buyPrice": null
+  },
+  "Gold Ingot":
+  {
+    "sellPrice": 4,
+    "buyPrice": null
+  },
+  "Revenant Viscera":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Tarantula Silk":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Enchanted Mutton":
+  {
+    "sellPrice": 800,
+    "buyPrice": null
+  },
+  "Enchanted Iron":
+  {
+    "sellPrice": 480,
+    "buyPrice": null
+  },
+  "Super Enchanted Egg":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Super Compactor 3000":
+  {
+    "sellPrice": 50000,
+    "buyPrice": null
+  },
+  "Stock of Stonks":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Enchanted Hay Bale":
+  {
+    "sellPrice": 1300,
+    "buyPrice": null
+  },
+  "Enchanted Paper":
+  {
+    "sellPrice": 384,
+    "buyPrice": null
+  },
+  "Enchanted Bone":
+  {
+    "sellPrice": 320,
+    "buyPrice": null
+  },
+  "Enchanted Diamond Block":
+  {
+    "sellPrice": 204800,
+    "buyPrice": null
+  },
+  "Spooky Bait":
+  {
+    "sellPrice": 10,
+    "buyPrice": null
+  },
+  "Superior Dragon Fragment":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Emerald":
+  {
+    "sellPrice": 6,
+    "buyPrice": null
+  },
+  "Enchanted Rabbit Foot":
+  {
+    "sellPrice": 800,
+    "buyPrice": null
+  },
+  "Light Bait":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Hot Potato Book":
+  {
+    "sellPrice": 13000,
+    "buyPrice": null
+  },
+  "Enchanted Ice":
+  {
+    "sellPrice": 80,
+    "buyPrice": null
+  },
+  "Clay":
+  {
+    "sellPrice": 3,
+    "buyPrice": null
+  },
+  "Old Dragon Fragment":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Green Gift":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Packed Ice":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Lily Pad":
+  {
+    "sellPrice": 10,
+    "buyPrice": null
+  },
+  "Acacia Wood":
+  {
+    "sellPrice": 2,
+    "buyPrice": null
+  },
+  "Hamster Wheel":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Enchanted Obsidian":
+  {
+    "sellPrice": 1920,
+    "buyPrice": null
+  },
+  "Enchanted Coal":
+  {
+    "sellPrice": 320,
+    "buyPrice": null
+  },
+  "Coal":
+  {
+    "sellPrice": 2,
+    "buyPrice": null
+  },
+  "Enchanted Quartz":
+  {
+    "sellPrice": 640,
+    "buyPrice": null
+  },
+  "Ender Pearl":
+  {
+    "sellPrice": 10,
+    "buyPrice": null
+  },
+  "Enchanted Block of Coal":
+  {
+    "sellPrice": 51200,
+    "buyPrice": null
+  },
+  "Enchanted Prismarine Crystals":
+  {
+    "sellPrice": 400,
+    "buyPrice": null
+  },
+  "Enchanted Wet Sponge":
+  {
+    "sellPrice": 80000,
+    "buyPrice": null
+  },
+  "End Stone":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Enchanted Raw Fish":
+  {
+    "sellPrice": 960,
+    "buyPrice": null
+  },
+  "Nether Quartz":
+  {
+    "sellPrice": 4,
+    "buyPrice": null
+  },
+  "Foul Flesh":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Raw Beef":
+  {
+    "sellPrice": 4,
+    "buyPrice": null
+  },
+  "Enchanted Eye of Ender":
+  {
+    "sellPrice": 3520,
+    "buyPrice": null
+  },
+  "Magma Cream":
+  {
+    "sellPrice": 8,
+    "buyPrice": null
+  },
+  "Sugar Cane":
+  {
+    "sellPrice": 2,
+    "buyPrice": null
+  },
+  "Red Gift":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Enchanted Raw Beef":
+  {
+    "sellPrice": 640,
+    "buyPrice": null
+  },
+  "Enchanted Feather":
+  {
+    "sellPrice": 480,
+    "buyPrice": null
+  },
+  "Enchanted Slime Block":
+  {
+    "sellPrice": 128000,
+    "buyPrice": null
+  },
+  "Enchanted Oak Wood":
+  {
+    "sellPrice": 320,
+    "buyPrice": null
+  },
+  "Rabbit Hide":
+  {
+    "sellPrice": 5,
+    "buyPrice": null
+  },
+  "White Gift":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Gunpowder":
+  {
+    "sellPrice": 4,
+    "buyPrice": null
+  },
+  "Raw Rabbit":
+  {
+    "sellPrice": 4,
+    "buyPrice": null
+  },
+  "Nether Wart":
+  {
+    "sellPrice": 3,
+    "buyPrice": null
+  },
+  "Dark Bait":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Enchanted Carrot":
+  {
+    "sellPrice": 160,
+    "buyPrice": null
+  },
+  "Enchanted Pumpkin":
+  {
+    "sellPrice": 640,
+    "buyPrice": null
+  },
+  "Rotten Flesh":
+  {
+    "sellPrice": 2,
+    "buyPrice": null
+  },
+  "Enchanted Cooked Fish":
+  {
+    "sellPrice": 150000,
+    "buyPrice": null
+  },
+  "Obsidian":
+  {
+    "sellPrice": 12,
+    "buyPrice": null
+  },
+  "Minnow Bait":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Enchanted Magma Cream":
+  {
+    "sellPrice": 1280,
+    "buyPrice": null
+  },
+  "Enchanted Firework Rocket":
+  {
+    "sellPrice": 41000,
+    "buyPrice": null
+  },
+  "Leather":
+  {
+    "sellPrice": 3,
+    "buyPrice": null
+  },
+  "Enchanted Cooked Mutton":
+  {
+    "sellPrice": 128000,
+    "buyPrice": null
+  },
+  "Enchanted Raw Rabbit":
+  {
+    "sellPrice": 640,
+    "buyPrice": null
+  },
+  "Enchanted Bread":
+  {
+    "sellPrice": 60,
+    "buyPrice": null
+  },
+  "Fuming Potato Book":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Enchanted Charcoal":
+  {
+    "sellPrice": 320,
+    "buyPrice": null
+  },
+  "Enchanted Blaze Powder":
+  {
+    "sellPrice": 1440,
+    "buyPrice": null
+  },
+  "Summoning Eye":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Fish Bait":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Snow Block":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Enchanted Baked Potato":
+  {
+    "sellPrice": 25600,
+    "buyPrice": null
+  },
+  "Compactor":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Enchanted Diamond":
+  {
+    "sellPrice": 1280,
+    "buyPrice": null
+  },
+  "Booster Cookie":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Ancient Claw":
+  {
+    "sellPrice": 200,
+    "buyPrice": null
+  },
+  "Enchanted Ancient Claw":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Daedalus Stick":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Griffin Feather":
+  {
+    "sellPrice": 1000,
+    "buyPrice": null
+  },
+  "Nurse Shark Tooth":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Shark FinShark Fin":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Tiger Shark Tooth":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Enchanted Shark Fin":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Great White Shark Tooth":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Blue Shark Tooth":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Shark Bait":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Bazaar Cookie":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Refined Mineral":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Hyper Catalyst":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Spooky Shard":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Pumpkin Guts":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Ectoplasm":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Soul Fragment":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Werewolf Skin":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "\"Jacobs Ticket\"":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Tightly-Tied Hay Bale":
+  {
+    "sellPrice": 187200,
+    "buyPrice": null
+  },
+  "Polished Pumpkin":
+  {
+    "sellPrice": 102400,
+    "buyPrice": null
+  },
+  "Mutant Nether Wart":
+  {
+    "sellPrice": 76800,
+    "buyPrice": null
+  },
+  "Experience Bottle":
+  {
+    "sellPrice": 5,
+    "buyPrice": null
+  },
+  "Grand Experience Bottle":
+  {
+    "sellPrice": 480,
+    "buyPrice": null
+  },
+  "Colossal Experience Bottle":
+  {
+    "sellPrice": 5000,
+    "buyPrice": null
+  },
+  "Titanic Experience Bottle":
+  {
+    "sellPrice": 5000,
+    "buyPrice": null
+  },
+  "Green Jerry Box":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Golden Jerry Box":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Purple Jerry Box":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Blue Jerry Box":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Refined Mithril":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Titanium":
+  {
+    "sellPrice": 20,
+    "buyPrice": null
+  },
+  "Mithril":
+  {
+    "sellPrice": 10,
+    "buyPrice": null
+  },
+  "Starfall":
+  {
+    "sellPrice": 15,
+    "buyPrice": null
+  },
+  "Refined Titanium":
+  {
+    "sellPrice": null,
+    "buyPrice": null
+  },
+  "Refined Diamond":
+  {
+    "sellPrice": 409600,
+    "buyPrice": null
+  },
+  "Enchanted Mithril":
+  {
+    "sellPrice": 1600,
+    "buyPrice": null
+  },
+  "Enchanted Titanium":
+  {
+    "sellPrice": 3200,
+    "buyPrice": null
+  }
+}
